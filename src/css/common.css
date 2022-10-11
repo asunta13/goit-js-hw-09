@@ -16,3 +16,19 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.timer {
+  margin-top: 10px;
+  display: flex;
+}
+
+.value {
+  font-size: 54px;
+  margin-right: 10px;
+  background-color: azure;
+}
+.label {
+  font-size: 12;
+  display: flex;
+  padding-left: 10px;
+}
